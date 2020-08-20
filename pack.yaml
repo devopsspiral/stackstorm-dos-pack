@@ -1,0 +1,16 @@
+---
+ref: dos-pack
+name: dos-pack
+description: Example stakcstorm pack for 11_chatops_stackstorm
+keywords:
+  - devopsspiral
+  - stackstorm
+  - jenkins
+version: 0.1.0
+author: Michal Wcialo
+email: sth@else.com
+contributors:
+  - DevOps Spiral <sth@else.com>
+python_versions:
+  - "2"
+  - "3"
