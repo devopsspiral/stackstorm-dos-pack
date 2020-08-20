@@ -1,6 +1,6 @@
 ---
-ref: dos-pack
-name: dos-pack
+ref: dos_pack
+name: dos_pack
 description: Example stakcstorm pack for 11_chatops_stackstorm
 keywords:
   - devopsspiral
