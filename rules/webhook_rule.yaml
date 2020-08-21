@@ -14,5 +14,5 @@
     ref: chatops.post_message
     parameters:
       message: "Jenkins job succeeded!"
-      channel: "11_chatops_stackstorm"
+      channel: "#11_chatops_stackstorm"
       
